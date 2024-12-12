@@ -8,7 +8,7 @@
 🌟 Objetivo
 Oferecer uma API limpa, bem documentada e fácil de integrar, que pode ser a base perfeita para qualquer aplicação de gerenciamento de bibliotecas.
 
-- **Node.js & Express.js**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **Node.js & Express.js**: para o servidor.
 - **MongoDb**: para armazenamento eficiente.
 - **Arquitetura MVC**: para código organizado e escalável
    
