@@ -1,12 +1,22 @@
 
 ## API REST - NODE.JS - EXPRESS.JS - MONGODB
 
-Essa é uma API REST para controle de livros de uma biblioteca,
+🚀 API REST Simples, Poderosa e Escalável!
 
-- **Node.js**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **Express.js**: Estilização personalizada da aplicação.
-- **MongoDb**: Lógica de programação.
-- **arquitetura**: MVC.
+ API REST robusta para controle de livros de uma biblioteca utilizando tecnologias de ponta:
+
+🌟 Objetivo
+Oferecer uma API limpa, bem documentada e fácil de integrar, que pode ser a base perfeita para qualquer aplicação de gerenciamento de bibliotecas.
+
+- **Node.js & Express.js**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **MongoDb**: para armazenamento eficiente.
+- **Arquitetura MVC**: para código organizado e escalável
+   
+## Features
+✅ CRUD completo para **livros** e **autores**
+✅ **Busca avançada** por título, editora e autor
+✅ **Paginação e ordenação** flexíveis para melhor performance
+
 
 
 ## Getting started
@@ -16,33 +26,31 @@ Essa é uma API REST para controle de livros de uma biblioteca,
 * Clone o repositório:
    ```bash
    git clone https://github.com/rasta-slaine/DncWeather
-   cd DncWeather
+   cd REST-API---NODE-AND-MONGODB
    ```
-   
-## Features
 
 ## Routes Livros
-# GET
+## GET
 - **/livros**: Lista todos os livros.
 - **/livros/busca**: Faz a busca pelos livros.
 - **/livros/:id**: Traz um livro pela id.
-# POST
+## POST
 - **/livros**: Cria um livro
-# PUT
+## PUT
 - **/livros/:id**: Edita um livro
-# DELETE
+## DELETE
 - **/livros/:id**: Deleta um livro
 
 
 ## Routes Autor
-# GET
+## GET
 - **/autores**: Lista todos os autores
 - **/autores/:id**: Traz um autor pela id
-# POST
+## POST
 - **/autores**: Cria um autor
-# PUT
+## PUT
 - **/autores/:id**: Edita um autor
-# DELETE
+## DELETE
 - **/autores/:id**: Deleta um autor
 
 # Search 
